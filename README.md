@@ -18,7 +18,7 @@
 
 [![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.pt/intl/pt-PT/chrome/)
 
-<h3 id="acessar-projeto"><a href="https://majestic-starship-0d1824.netlify.app/">📁 Acessar Projeto(feito por mim)<a/></h3>
+<h3 id="acessar-projeto"><a href="https://sensational-sunburst-adc6bc.netlify.app/">📁 Acessar Projeto(feito por mim)<a/></h3>
 <h3 id="site-oficial"><a href="https://www.dlkmodas.com.br/">📁 Acessar Site oficial da marcar (que não foi feito por mim kk)<a/></h3>
 
 
@@ -41,8 +41,4 @@ Não há necessidade de instalação.
 ✅ Esse projeto foi feito usando os conhecimentos básicos das linguagens: HTML, CSS e JAVASCRIPT. <br>
 ✅ Projeto responsivo.  <br>
 ✅ Maior parte feita através da biblioteca bootstrap <br>
-
-
-<h3 id="preview">🎥 Preview</h3>
-<img src="./asset/video.gif" width="600px">
 
