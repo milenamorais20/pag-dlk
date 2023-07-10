@@ -1,4 +1,4 @@
-# REFAZANDO SITE DLK💭
+# REFAZENDO SITE DLK💭
 
 ### 🎯 Menu
 
