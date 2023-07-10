@@ -40,7 +40,7 @@ Não há necessidade de instalação.
 ✅ Desenvolvido no padrão MVC. <br>
 ✅ Esse projeto foi feito usando os conhecimentos básicos das linguagens: HTML, CSS e JAVASCRIPT. <br>
 ✅ Projeto responsivo.  <br>
-✅ Feito a partir da biblioteca bootstrap <br>
+✅ Maior parte feita através da biblioteca bootstrap <br>
 
 
 <h3 id="preview">🎥 Preview</h3>
